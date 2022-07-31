@@ -62,7 +62,7 @@ tests/data/*.translation
 st[A-Za-z0-9][A-Za-z0-9][A-Za-z0-9][A-Za-z0-9][A-Za-z0-9][A-Za-z0-9]
 
 # Python generated
-PYTHIN/*.*
+PYTHON/
 __pycache__/
 *.pyc
 
